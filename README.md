@@ -57,3 +57,5 @@ Database Management: Improved skills in handling large datasets and optimizing q
 
 🤝 Contributing
 If you find this project interesting and want to contribute, feel free to fork the repository and submit pull requests. Contributions are always welcome!
+
+Linkedin Post : https://www.linkedin.com/posts/activity-7232987109962244096-ZVjv?utm_source=combined_share_message&utm_medium=member_desktop
